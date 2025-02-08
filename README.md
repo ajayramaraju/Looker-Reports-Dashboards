@@ -1,8 +1,6 @@
 ## 🚀 Overview
 This dashboard provides a comprehensive analysis of the sales data, offering insights into customer orders, sales trends, and regional performances. It is designed to help stakeholders understand business performance across different segments, categories, and regions.
 
-
-
 ## 📈 Key Insights
 
 1. **Orders by Category:**
