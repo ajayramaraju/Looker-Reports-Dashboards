@@ -1,7 +1,7 @@
 ## Overview
 This dashboard provides a comprehensive analysis of the sales data, offering insights into customer orders, sales trends, and regional performances. It is designed to help stakeholders understand business performance across different segments, categories, and regions.
 
-[📄 View Full Report](./Orders_Report_by_Ajay_Datla.pdf)
+[📄 View Full Report]([./Orders_Report_by_Ajay_Datla.pdf](https://lookerstudio.google.com/embed/reporting/ac269f93-17de-453a-ac9e-e5b5355b63ab/page/fpqnE))
 
 ## Key Insights
 
