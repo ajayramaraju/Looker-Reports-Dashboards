@@ -1,0 +1,61 @@
+# Website Traffic and User Engagement Dashboard
+
+## Executive Summary
+This real-time dashboard offers comprehensive insights into website traffic and user engagement, seamlessly integrated with **Google Analytics** for continuous data updates. Built using **Looker Studio**, it empowers marketers and analysts to monitor key performance indicators (KPIs) and optimize digital strategies based on real-time data.
+
+## 🌐 Interactive Dashboard
+Explore the live interactive dashboard here: [View Interactive Dashboard](https://lookerstudio.google.com/embed/reporting/6eaf242f-8932-43b9-8b59-89982b4ed237/page/I6hlE)
+
+## 📄 Report PDF
+Access the detailed report here: [Website_Traffic_User_Engagement.pdf](./Website_Traffic_User_Engagement.pdf)
+
+## Key Metrics and Insights
+
+1. **Traffic Source Analysis:**
+   - **Direct Traffic** leads with **6,047 sessions**, showcasing strong brand recognition.
+   - **Organic Search** accounts for **2,497 sessions** with a high engagement rate of **60.71%**.
+   - **Referral Traffic** boasts the highest engagement rate at **71.32%**, indicating quality inbound links.
+
+2. **User Engagement Metrics:**
+   - **Active Users:** 7,629 (noting an **11%** decline).
+   - **Average Session Duration:** **4 minutes 1 second**, reflecting increased user interaction.
+   - **Purchase Conversion Rate:** **0.01**, indicating opportunities for conversion rate optimization.
+
+3. **Referral Source Performance:**
+   - Top referrals from **art-analytics.appspot.com** and **m.baidu.com** with engagement rates exceeding **50%**.
+   - Strong engagement from social platforms like **Instagram** and **Facebook**.
+
+4. **Marketing Campaign Effectiveness:**
+   - The **[Evergreen] Merch Store US and CA** campaign achieved **76.08%** engagement.
+   - Seasonal campaigns like **Nov2024_FallWinter** demonstrated a **100%** engagement rate.
+
+5. **Landing Page Performance:**
+   - Homepage ("/") leads with **5,727 sessions** and a **60.71%** engagement rate.
+   - Product-specific pages, such as **/product/lifestyle/android-classic-plushie**, achieved **76.81%** engagement.
+
+6. **Real-Time Data Trends:**
+   - Continuous monitoring enables timely insights into daily traffic fluctuations, aiding agile decision-making.
+
+## Data-Driven Insights for Optimization
+
+- **Traffic Source Attribution:** Understand the impact of each channel on overall traffic and conversions.
+- **User Behavior Analysis:** Identify patterns in session duration, engagement rates, and bounce rates.
+- **Campaign Performance Tracking:** Measure the ROI of marketing campaigns in real-time.
+- **Landing Page Optimization:** Improve user experience and conversion rates based on performance data.
+- **Real-Time Reporting:** React promptly to traffic spikes or drops for immediate strategy adjustments.
+
+## Analytical Considerations
+
+- **Channel Effectiveness:** Focus on high-performing channels like organic search and referrals.
+- **Engagement Metrics:** Use average session duration and engagement rates to evaluate content effectiveness.
+- **Conversion Funnel Analysis:** Identify drop-off points to optimize the user journey.
+- **Data Integrity:** Ensure Google Analytics settings are correctly configured for accurate tracking.
+
+## Dashboard Utilization Guide
+- Use filters for **Date Range**, **Traffic Source**, and **Campaign** to analyze specific segments.
+- Track **real-time user activity** to respond quickly to trends.
+- Compare **engagement rates** across different landing pages and campaigns.
+
+---
+
+**Created by:** Ajay Datla
